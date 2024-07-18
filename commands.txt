@@ -1,5 +1,0 @@
-npm run dev 
-json-server --watch db.json (npm run server [con el script])
-
-
-npm install axios
